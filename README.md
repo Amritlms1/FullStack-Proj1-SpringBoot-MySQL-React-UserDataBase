@@ -1,6 +1,7 @@
-![Home](https://github.com/user-attachments/assets/ed7794e6-4da1-4e08-b33f-d9ec7407819e)
-![Details](https://github.com/user-attachments/assets/d1313437-12c3-41b7-ab03-845274a7a7bb)
-![Edit](https://github.com/user-attachments/assets/208e6431-02d9-47f7-b11a-42a9d3286730)
+![Home](https://github.com/user-attachments/assets/91ddba49-ef99-40a7-85bb-8f35a7df3270)
+![Details](https://github.com/user-attachments/assets/03c84235-9618-42c7-b407-e4cefc747090)
+![Edit](https://github.com/user-attachments/assets/e98a083a-eebd-42d5-aa93-4e1ec9252466)
+
 This project is a basic full-stack application featuring a responsive user interface (UI) with the following functionalities:
 
 - **Home Page:** Displays the main landing page of the application.
